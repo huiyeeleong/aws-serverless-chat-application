@@ -1,7 +1,10 @@
 
 # Welcome to your CDK Python project!
 
-This is a blank project for Python development with CDK.
+This is a AWS Serverless Chat Application for Python development with CDK.
+
+![image](https://user-images.githubusercontent.com/66815986/135272059-9ac01f9d-1111-4bac-8ae0-ebc5317c0eac.png)
+
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
